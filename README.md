@@ -1,10 +1,6 @@
 # Generative_AI_computer_visiosn
 This projects was done in completion of the generative AI and computer vision Udacity
 
-**Projects**: 
-  This projects are carried out in fulfilment of the Udacity Nano degree course on Robotics Software Engineer <br>
-  <summary>🔨 List of Core Projects</summary>
-
 
 
                      
