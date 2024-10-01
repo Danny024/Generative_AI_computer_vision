@@ -1,4 +1,4 @@
-# Generative_AI_computer_visiosn
+# Generative_AI_computer_vision
 This projects was done in completion of the generative AI and computer vision Udacity
 
 
